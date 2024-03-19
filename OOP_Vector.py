@@ -5,3 +5,6 @@ class Vector:
     def len (self):
 #Return the dimension of the vector
      return len(self.coords)
+    def getitem (self,j):
+#Return jth coordinate of vector
+     return self.coords[j]
