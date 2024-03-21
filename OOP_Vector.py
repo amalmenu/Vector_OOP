@@ -25,6 +25,9 @@ class Vector:
             return False
         return self.coords == other_vec.coords
 
+    def __ne__(self, other_vec):
+        return not self==other_vec
+
 
 # Test the Vector class
 v1 = Vector(2)
@@ -39,3 +42,6 @@ print(v1.__eq__(v2))
 v3=v1.__add__(v2)
 print(v3.__getitem__(0))
 print(v3.__getitem__(1))
+print(v1.coords)
+print(v3.coords)
+print(v1.__ne__(v2))
