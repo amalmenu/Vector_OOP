@@ -1,25 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c3c471-dea3-4a77-92b0-a6d04e8b62db" name="Changes" comment="" />
+    <list default="true" id="88c3c471-dea3-4a77-92b0-a6d04e8b62db" name="Changes" comment="commit 6">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Vector.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Vector.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2duMIZEEyUAqR7zatMl76ZzlE5H" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.OOP_Vector.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -38,6 +67,135 @@
       <option name="presentableId" value="Default" />
       <updated>1710853430450</updated>
     </task>
+    <task id="LOCAL-00001" summary="check 1">
+      <option name="closed" value="true" />
+      <created>1710853619511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710853619511</updated>
+    </task>
+    <task id="LOCAL-00002" summary="check 1">
+      <option name="closed" value="true" />
+      <created>1710854623888</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710854623888</updated>
+    </task>
+    <task id="LOCAL-00003" summary="check 2">
+      <option name="closed" value="true" />
+      <created>1710854698107</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710854698107</updated>
+    </task>
+    <task id="LOCAL-00004" summary="check 3">
+      <option name="closed" value="true" />
+      <created>1710854770315</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710854770315</updated>
+    </task>
+    <task id="LOCAL-00005" summary="check 3">
+      <option name="closed" value="true" />
+      <created>1710854852182</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710854852182</updated>
+    </task>
+    <task id="LOCAL-00006" summary="check 4">
+      <option name="closed" value="true" />
+      <created>1710855662680</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710855662680</updated>
+    </task>
+    <task id="LOCAL-00007" summary="check 4">
+      <option name="closed" value="true" />
+      <created>1710855738792</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710855738792</updated>
+    </task>
+    <task id="LOCAL-00008" summary="check 4">
+      <option name="closed" value="true" />
+      <created>1710855771058</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710855771058</updated>
+    </task>
+    <task id="LOCAL-00009" summary="check 4">
+      <option name="closed" value="true" />
+      <created>1710855926548</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710855926548</updated>
+    </task>
+    <task id="LOCAL-00010" summary="check 5">
+      <option name="closed" value="true" />
+      <created>1710863872214</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710863872214</updated>
+    </task>
+    <task id="LOCAL-00011" summary="check 5">
+      <option name="closed" value="true" />
+      <created>1710863944032</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710863944032</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit 6">
+      <option name="closed" value="true" />
+      <created>1710888691791</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710888691791</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="check 1" />
+    <MESSAGE value="check 2" />
+    <MESSAGE value="check 3" />
+    <MESSAGE value="check 4" />
+    <MESSAGE value="check 5" />
+    <MESSAGE value="commit 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 6" />
   </component>
 </project>
